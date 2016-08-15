@@ -1,0 +1,16 @@
+---
+- name: Install PHP
+  apt: name={{ item }} state=present
+  with_items:
+    - php7.0-cli
+    - php7.0-curl
+    - php7.0-fpm
+    - php7.0-gd
+    - php7.0-mysql
+
+- name: change php.ini
+  template: src=php.ini dest=/etc/php/7.0/fpm/php.ini
+
+- name: Start PHP7.0-FPM service
+  service: name=php7.0-fpm state=started enabled=true
+
