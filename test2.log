@@ -1,0 +1,92 @@
+
+Found 83 roles matching your search:
+
+ Name                                   Description
+ ----                                   -----------
+ Nainterceptor.wordpress                
+ darthwade.wordpress                    Wordpress
+ gwenlei.wordpress-wordpress            install wordpress
+ valentinzberea.wordpress               WordPress installer
+ darthwade.wordpress-apache             WordPress + Apache
+ genzouw.wordpress                      Scrit to setup wordpress.
+ wata.wordpress                         Setup Wordpress
+ mats116.wordpress                      WordPress installer
+ llamerr.wordpress                      WordPress installer
+ MatthewMi11er.wordpress                A role to setup wordpress
+ spacedog.wordpress                     Manages wordpress installation
+ FrogyYen.frogy.centos7-wordpress       Installs wordpress on CentOS 7
+ arogarth.wordpress                     Ansible role to install wordpress
+ FrogyYen.centos7-wordpress             Installs wordpress on CentOS 7
+ thomtoogood.beetbox-wordpress          WordPress project role for beetbox.
+ SystemOneSolutions.Wordpress           This is an ansible role for Wordpress
+ FinalCoffee.wordpress-ready-to-fly     Install and configure wordpress
+ zxcvbnius.ubuntu-wordpress             Quick and easy wordpress installer
+ gwenlei.wordpress-mysql                install mysql for wordpress
+ gwenlei.wordpress-php7                 install php7.0 for wordpress
+ JoergFiedler.freebsd-jailed-wordpress  Provides a jailed Wordpress server.
+ beetboxvm.wordpress                    WordPress project role for beetbox.
+ Jberlinsky.varnish-wordpress           Install Varnish for Wordpress
+ gwenlei.wordpress-nginx                install nginx for wordpress
+ theqwan-chengwei.installwordpress      ['install wordpress']
+ Sys0dm1n.new-wordpress                 New Wordpress install for Apache servers - Ubuntu OS
+ tsDaenor.wordpress                     Installs and configures wordpress on CentOS/RHEL 7 by using WP-CLI.
+ gwenlei.wordpress-common               apt-get update before install wordpress
+ tersmitten.wordpress                   Set up (multiple) wordpress installations in Debian-like systems (using wp-cli)
+ bertvv.wordpress                       Installs Wordpress on a RedHat based distribution (RHEL/CentOS, Fedora)
+ bbatsche.WordPress                     Downloads WordPress and configures basic DB and encryption parameters automatically
+ FrogyYen.centos7-initwordpress         Init wordpress on CentOS 7
+ FrogyYen.frogy.centos7-initwordpress   Init wordpress on CentOS 7
+ chusiang.wordpress                     Deploy WordPress for Ubuntu and CentOS. (fork from https://galaxy.ansible.com/darthwade/WordPress)
+ memiah.fail2ban-wordpress              Install the fail2ban service and WordPress fail2ban plugin on RedHat systems.
+ basserselim.wordpress_activate         This roles uses the wordpress-cli to activate a list of plugins and a specified theme
+ ontic.wordpress                        This role installs WordPress on RedHat/CentOS and Debian/Ubuntu Linux servers.
+ louim.bedrock-site-protect             Lock your Bedrock WordPress with htpasswd
+ heskethm.wp-cli                        Install WP-CLI, a command line interface for WordPress.
+ RiFi2k.bedrock-site-protect            Lock your Bedrock WordPress with htpasswd
+ oesgalha.storyteller                   Installs a Wordpress Blog on Ubuntu using Nginx and Mysql
+ sbaerlocher.wp-cli                     Install WP-CLI, a command line interface for WordPress.
+ troykinsella.workstation               Install my workstation
+ indigo-dc.kepler                       Kepler workflow engine
+ marcinpraczko.myworkspace              Setup workspace in home directory
+ RDI2.slurm                             Installs SLURM Workload Manager
+ rdi2sys.slurm                          Installs SLURM Workload Manager
+ insanity54.bootstrap                   Bootstrap a VPS to work with Ansible
+ judeaugustinej.chefdk                  Install Chef Development Kit on the workstation
+ marcinpraczko.osl-myworkspace          Setup workspace in home directory
+ virtualenv.drupal                      Install Drupal - a world class CMS
+ nickjj.sidekiq                         Manage a sidekiq worker for rails applications.
+ ThiagoRuis.workspace                   Creates my basic develop dir tree
+ EffectiveDevOpsWithAWS.node-helloworld Simple node Hello World
+ surfer190.ansible-role-mailcatcher     Set up a working Mailcatcher
+ geerlingguy.drupal                     Install Drupal - a world class CMS
+ crushlovely.forever-worker             Installs Forever and Copies an Upstart Script for a worker type process
+ hsingh.elastic_beanstalk               Ansible modules for working with Amazon Elastic Beanstalk
+ davidkarban.devconfcz2016_ntp_role     Install and configure ntp, devconf.cz 2016 ansible workshop
+ crushlovely.capistrano                 Creates a working directory for a capistrano type deployment
+ jenscobie.artifactory                  Install Artifactory, the world’s most advanced repository manager.
+ Voronenko.developer_recipes            unsorted set of recipes used to quickly get workplace up
+ softasap.sa-lamp                       installs classic lamp (mysql apache (worker|prefork) php on ubuntu 14.04 LTS)
+ noqcks.python                          Python is a programming language that lets you work quickly and integrate systems more effectively.
+ davidkarban.postfix                    Postfix role, can work with amavis, dovecot and more roles to do a full scale mail server.
+ colstrom.python                        Python is a programming language that lets you work quickly and integrate systems more effectively.
+ mtangaro.ansible-role-galaxycloud      Install Galaxy workflow manager (production environment) on CentOS7 + postresql, nginx, uwsgi, proftpd
+ aaronpederson.python                   Python is a programming language that lets you work quickly and integrate systems more effectively.
+ digineo.passenger                      Installs Apache2-worker, Ruby 2.1 and Phusion Passenger on Ubuntu/Debian
+ kgorman.sysbench-mongodb               Configurable load testing system for MongoDB and variants. Works with DBaaS services as well.
+ sebalix.rsnapshot-master               Ansible role to install and configure a rsnapshot master. It works in conjunction with the rsnapshot-slave role.
+ telusdigital.python                    Python is a programming language that lets you work quickly and integrate systems more effectively.
+ jasonj.beanstalkd                      An Ansible role for the installation of the Beanstalkd network work queue, http://kr.github.io/beanstalkd/
+ indigo-dc.galaxycloud                  Install Galaxy workflow manager (production environment) on CentOS7 + postresql, nginx, uwsgi, proftpd
+ TobiG77.xenial-bootstrap-setup         Personal collection of tasks to get my workstation ASAP into a productive state.
+ dnivra26.gocd                          Install the Go Continuous Delivery tool.  Model even the most complex build and deploy workflow with ease.
+ tpbrown.gocd                           Install the Go Continuous Delivery tool.  Model even the most complex build and deploy workflow with ease.
+ mmannerm.bash_it                       Bash-it ansible playbook. Works with various Linux distributions and Mac OS X 10.10+. See https://github.com/Bash-it/bash-it
+ brucellino.HPC-WN-role                 A raw worker node role, for natted hosts. This role sets up the private networking for the host, configures default routes and mounts certain nfs-shares.
+ softasap.sa-dev-worktools              Cleanups default ubuntu 14.04 install - recipe for visual ubuntu boxes used for provision testing, also usable for developer's notebook installation.
+ jbzdak.geant                           This is an Ansible role to install Geant software on Debian (tested) / Ubuntu
+(installs on Travis) and CentOs (tested once, that not).
+
+Works on Ansible 2.0.1, and probably no ther version (some 2.0 features
+are used, and some deprecated ones too).
+ softasap.sa-queue-beanstalkd           Beanstalk is a simple, fast work queue. Its interface is generic, but was originally designed for reducing the latency of page views in high-volume web applications by running time-consuming tasks asynchronously.
+ vevmesteren.nodejs-forever             An Ansible role that installs nodejs and runs default or your application on Ubuntu 12.04 - 15.10. If you just want to test Node, this role got you covered, it comes with a simple Hello World app. NodeJS is added as service (using NPM packages) allowin...
